@@ -37,7 +37,7 @@ git clone https://github.com/martin-pedraza/CommandLineProjects.git
 Navigate to the toolbox directory:
 
 ```
-cd GamesAndUtility/Tools
+cd CommandLineProjects/Tools
 ```
 
 Run the desired utility using Python:
