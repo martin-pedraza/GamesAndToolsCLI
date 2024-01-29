@@ -21,6 +21,7 @@ class Tateti():
         self.turno_humano = True
 
     def jugar(self):
+        print("Coloca tres fichas en línea horizontal, vertical o diagonal para ganar.")
         while sum(self.opciones) != 0:
             self.jugar_turno()
             if self.verificar_triunfo() != (False, None):
