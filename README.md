@@ -1,4 +1,4 @@
-# GamesAndTools
+# GamesAndToolsCLI
 
 This combined repository brings together a collection of Python scripts that offer both entertaining console-based games and practical command-line utilities.
 
@@ -8,13 +8,13 @@ Explore a variety of console-based games by following these simple steps:
 Clone the repository:
 
 ```
-git clone https://github.com/martin-pedraza/GamesAndTools.git
+git clone https://github.com/martin-pedraza/GamesAndToolsCLI.git
 ```
 
 Navigate to the games directory:
 
 ```
-cd GamesAndTools/Games
+cd GamesAndToolsCLI/Games
 ```
 
 Run the desired game using Python:
@@ -31,13 +31,13 @@ Discover a set of useful command-line utilities with the Utility Toolbox. Follow
 Clone the repository:
 
 ```
-git clone https://github.com/martin-pedraza/GamesAndTools.git
+git clone https://github.com/martin-pedraza/GamesAndToolsCLI.git
 ```
 
 Navigate to the toolbox directory:
 
 ```
-cd GamesAndTools/Tools
+cd GamesAndToolsCLI/Tools
 ```
 
 Run the desired utility using Python:
